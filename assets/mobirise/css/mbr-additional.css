@@ -1288,26 +1288,22 @@ section.lazy-placeholder:after {
 .cid-s09jG5BlEY {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
 }
-
 .cid-s09jG5BlEY .mbr-section-subtitle {
   color: #767676;
   text-align: center;
   font-weight: 300;
 }
-
 .cid-s09jG5BlEY .timeline-text-content {
   padding: 2rem 2.5rem;
   background: #efefef;
   margin-right: 2rem;
   transition: all .4s;
 }
-
 .cid-s09jG5BlEY .timeline-text-content p {
   margin-bottom: 0;
 }
-
 .cid-s09jG5BlEY .timeline-element {
   margin-bottom: 50px;
   position: relative;
@@ -1317,22 +1313,18 @@ section.lazy-placeholder:after {
   flex-direction: row;
   -webkit-flex-direction: row;
 }
-
 .cid-s09jG5BlEY .timeline-element:hover .timeline-text-content {
   box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
   transition: all .4s;
 }
-
 .cid-s09jG5BlEY .reverse {
   flex-direction: row-reverse;
   -webkit-flex-direction: row-reverse;
 }
-
 .cid-s09jG5BlEY .reverse .timeline-text-content {
   margin-left: 2rem;
   margin-right: 0;
 }
-
 .cid-s09jG5BlEY .iconsBackground {
   position: absolute;
   left: 50%;
@@ -1346,7 +1338,6 @@ section.lazy-placeholder:after {
   top: 20px;
   margin-left: -30px;
 }
-
 .cid-s09jG5BlEY .mbr-iconfont {
   position: absolute;
   text-align: center;
@@ -1356,7 +1347,6 @@ section.lazy-placeholder:after {
   top: 13px;
   left: 13px;
 }
-
 .cid-s09jG5BlEY .separline:before {
   top: 20px;
   bottom: 0;
@@ -1367,7 +1357,6 @@ section.lazy-placeholder:after {
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
-
 @media (max-width: 768px) {
   .cid-s09jG5BlEY .iconsBackground {
     left: 1.5rem;
@@ -1383,16 +1372,16 @@ section.lazy-placeholder:after {
     margin-right: 0 !important;
   }
 }
-
 .cid-s09jG5BlEY .reverseTimeline {
   display: flex;
   flex-direction: column-reverse;
 }
-
 .cid-s09jG5BlEY .mbr-section-title {
   color: #767676;
 }
-
+.cid-s09jG5BlEY .mbr-timeline-text {
+  text-align: left;
+}
 .cid-s06vdK3FHQ {
   display: block;
   padding-top: 50px;
