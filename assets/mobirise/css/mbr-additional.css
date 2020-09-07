@@ -1313,6 +1313,10 @@ section.lazy-placeholder:after {
   flex-direction: row;
   -webkit-flex-direction: row;
 }
+.cid-s09jG5BlEY .timeline-element:hover .timeline-text-content {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
 .cid-s09jG5BlEY .reverse {
   flex-direction: row-reverse;
   -webkit-flex-direction: row-reverse;
