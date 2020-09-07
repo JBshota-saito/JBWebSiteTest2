@@ -1352,6 +1352,10 @@ section.lazy-placeholder:after {
   .cid-s09jG5BlEY .iconsBackground {
     left: 1.5rem;
   }
+    .cid-s09jG5BlEY .timeline-text-content {
+    margin-left: 3rem !important;
+    margin-right: 0 !important;
+  }
   .cid-s09jG5BlEY .reverse .timeline-text-content {
     margin-right: 0 !important;
   }
