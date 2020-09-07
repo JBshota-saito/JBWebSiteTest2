@@ -1321,7 +1321,10 @@ section.lazy-placeholder:after {
   flex-direction: row-reverse;
   -webkit-flex-direction: row-reverse;
 }
-
+.cid-s09jG5BlEY .reverse .timeline-text-content {
+  margin-left: 2rem;
+  margin-right: 0;
+}
 .cid-s09jG5BlEY .mbr-iconfont {
   position: absolute;
   text-align: center;
