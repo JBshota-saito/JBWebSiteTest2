@@ -1325,6 +1325,19 @@ section.lazy-placeholder:after {
   margin-left: 2rem;
   margin-right: 0;
 }
+.cid-s09jG5BlEY .iconsBackground {
+  position: absolute;
+  left: 50%;
+  width: 60px;
+  height: 60px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #efefef;
+  top: 20px;
+  margin-left: -30px;
+}
 .cid-s09jG5BlEY .mbr-iconfont {
   position: absolute;
   text-align: center;
