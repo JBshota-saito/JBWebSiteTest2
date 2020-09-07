@@ -1347,16 +1347,7 @@ section.lazy-placeholder:after {
   top: 13px;
   left: 13px;
 }
-.cid-s09jG5BlEY .separline:before {
-  top: 20px;
-  bottom: 0;
-  position: absolute;
-  content: "";
-  width: 2px;
-  background-color: #efefef;
-  left: calc(50% - 1px);
-  height: calc(100% + 4rem);
-}
+
 @media (max-width: 768px) {
   .cid-s09jG5BlEY .iconsBackground {
     left: 1.5rem;
