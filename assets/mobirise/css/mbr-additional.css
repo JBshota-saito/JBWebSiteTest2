@@ -1304,6 +1304,15 @@ section.lazy-placeholder:after {
 .cid-s09jG5BlEY .timeline-text-content p {
   margin-bottom: 0;
 }
+.cid-s09jG5BlEY .timeline-element {
+  margin-bottom: 50px;
+  position: relative;
+  word-wrap: break-word;
+  word-break: break-word;
+  display: -webkit-flex;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+}
 .cid-s09jG5BlEY .reverse {
   flex-direction: row-reverse;
   -webkit-flex-direction: row-reverse;
