@@ -1295,6 +1295,12 @@ section.lazy-placeholder:after {
   text-align: center;
   font-weight: 300;
 }
+.cid-s09jG5BlEY .timeline-text-content {
+  padding: 2rem 2.5rem;
+  background: #efefef;
+  margin-right: 2rem;
+  transition: all .4s;
+}
 .cid-s09jG5BlEY .timeline-text-content p {
   margin-bottom: 0;
 }
